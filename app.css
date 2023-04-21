@@ -8,7 +8,7 @@ body {
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background: radial-gradient(#e5ddd9, #f32201);
+    background: radial-gradient(#e5ddd9, #f32201, #e5ddd9, #f32201, #2196f3, #e5ddd9, #2196f3);
 }
 .box{
     display: flex;
